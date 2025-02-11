@@ -1,7 +1,7 @@
 # Hi, I'm Meher Sudhakar! 👋  
 
 ## 🌱 What I'm Learning  
-I'm currently pursuing my master's in **Cybersecurity** at UMD. I have experience in **Selenium automation** and an interest in exploring **global cybersecurity opportunities**.
+I'm currently pursuing my master's in **Cybersecurity** at UMD. I have an interest in exploring **global cybersecurity opportunities**.
 
 ## 🔍 What I'm Working On  
 - Enhancing my **cybersecurity skills**  
