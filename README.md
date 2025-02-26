@@ -1,4 +1,4 @@
-# Hi, I'm Meher Sudhakar! 👋  
+# Hi, I'm Meher Sudhakar Abbireddi! 👋  
 
 ## 🚀 About Me
 I'm a Cybersecurity graduate student at UMD with an interest in exploring **global cybersecurity opportunities**. I enjoy tackling security challenges and contributing to innovative solutions.
