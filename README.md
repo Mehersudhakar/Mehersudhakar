@@ -1,7 +1,13 @@
 # Hi, I'm Meher Sudhakar! 👋  
 
-## 🌱 What I'm Learning  
+🚀 About Me
 I'm a Cybersecurity graduate student at UMD with an interest in exploring **global cybersecurity opportunities**. I enjoy tackling security challenges and contributing to innovative solutions.
+
+## 🌱 What I'm Learning  
+- Problem-solving and analytical thinking
+- Effective communication and collaboration skills
+- Exploring emerging technologies and their impact
+- Enhancing my critical thinking and decision-making abilities
 
 ## 🔍 What I'm Working On  
 - Enhancing my **cybersecurity skills**  
