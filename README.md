@@ -1,4 +1,4 @@
-### Hi, I'm Meher Sudhakar Abbireddi 👋
+## Hi, I'm Meher Sudhakar Abbireddi 👋
 
 #### 🛡️ About Me
 I'm a Cybersecurity Engineer with 3+ years in penetration testing, offensive security, and AI/LLM red teaming. M.Eng. Cybersecurity from the University of Maryland, College Park (May 2025). I find exploitable vulnerabilities through manual, adversary-driven testing, then translate them into actionable remediation that engineering teams actually ship.
